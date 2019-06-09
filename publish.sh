@@ -2,7 +2,7 @@
 
 LAYER_NAME=fastText
 
-COMMIT_SHA=c4542e5
+COMMIT_SHA=d0b9ad2
 
 REGIONS='
 ap-northeast-1

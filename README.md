@@ -7,4 +7,4 @@ for AWS Lambda providing the [`fasttext`](https://fasttext.cc/) binary
 
 | fasttext version | ARN |
 | --- | --- |
-| 0.2.0 | `arn:aws:lambda:<region>:654843952338:layer:fastText:2` |
+| 0.2.0 | `arn:aws:lambda:<region>:654843952338:layer:fastText:3` |
